@@ -18,4 +18,9 @@ public class PlayerInput : MonoBehaviour
     public KeyCode enterCars;
     public KeyCode exitCars;
 
+    [Header("Tank Keys")]
+    public KeyCode rotateTowerRight;
+    public KeyCode rotateTowerLeft;
+    public KeyCode shoot;
+
 }

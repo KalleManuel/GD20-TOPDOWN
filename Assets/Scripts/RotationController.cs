@@ -3,17 +3,22 @@ using UnityEngine;
 public class RotationController : MonoBehaviour
 {
 
-    public KeyCode rotateRight;
-    public KeyCode rotateLeft;
+  
 
     [Tooltip("Rotation Speed In Degrees per Second")]
     public float rotationSpeed = 150;
 
     
+    BetterCarMovement betterCarMovement;
+
+    
     void Update()
     {
-        bool rightRotate = Input.GetKey(rotateRight);
-        bool LeftRotate = Input.GetKey(rotateLeft);
+        betterCarMovement = GetComponent<BetterCarMovement>();
+        PlayerInput playerInput = betterCarMovement.driver.GetComponent<PlayerInput>();
+
+        bool rightRotate = Input.GetKey(playerInput.rotateTowerRight);
+        bool LeftRotate = Input.GetKey(playerInput.rotateTowerLeft);
 
         
         if (rightRotate)

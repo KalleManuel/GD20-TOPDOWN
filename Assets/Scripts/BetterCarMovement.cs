@@ -5,6 +5,26 @@ using UnityEngine;
 
 public class BetterCarMovement : MonoBehaviour
 {
+
+
+
+    /* remember:
+
+    - make methods
+    -use return to stop a method
+    - exit point
+    - get tank to work properbly
+    - make it shoot
+    - simplify exit, enter - see marks script.
+    - make tilemap
+    - make game - enemies? lifes?
+    - two cameras (split) or  camera range getting wider.
+    - add sounds
+    
+
+
+    */
+
     [Tooltip("Movement Speed In Meters per Second")]
     public float movementSpeed = 0.1f;
 
@@ -14,24 +34,23 @@ public class BetterCarMovement : MonoBehaviour
     public float brakeForce;
 
     public GameObject driver;
-   
-
-
 
     public float gearOneSpeed = 25000f;
     public float gearTwoSpeed = 35000f;
 
+    public Transform exitPoint;
 
-    private void Start()
-    {
-        GetComponent<BetterCarMovement>().enabled = false;
-    }
+    private bool HasDriver => driver != null;
+  
 
     void Update()
     {
+        if (!HasDriver)
+            return;
+
         PlayerInput playerInput = driver.GetComponent<PlayerInput>();
 
-    bool forward = Input.GetKey(playerInput.forwardKey);
+        bool forward = Input.GetKey(playerInput.forwardKey);
         bool backward = Input.GetKey(playerInput.backwardKey);
         bool rotateLeft = Input.GetKey(playerInput.turnLeftKey);
         bool Rotateright = Input.GetKey(playerInput.turnRightKey);
@@ -55,11 +74,9 @@ public class BetterCarMovement : MonoBehaviour
 
         if (Rotateright)
         {
-            // We want to rotate on the z-axis:
-            var rotateBy = new Vector3(0f, 0f, -rotationSpeed * Time.deltaTime * rigidbody.velocity.magnitude);
-            // We rotate the transform:
+            
+            var rotateBy = new Vector3(0f, 0f, -rotationSpeed * Time.deltaTime * rigidbody.velocity.magnitude);            
             transform.Rotate(rotateBy);
-            // And we also rotate the velocity, so that we do not continue sliding in the old direction:
             rigidbody.velocity = Quaternion.Euler(rotateBy) * rigidbody.velocity;
         }
 
@@ -79,12 +96,7 @@ public class BetterCarMovement : MonoBehaviour
         {
             GetComponent<Rigidbody2D>().drag = 1f;
         }
-        if (exitCar)
-        {
-
-            ExitCar();
-            //ToggleCamera();
-        }
+        
 
         if (gearone)
         {
@@ -96,23 +108,31 @@ public class BetterCarMovement : MonoBehaviour
             
             movementSpeed = gearTwoSpeed;
         }
+
+        if (exitCar)
+        {
+
+            ExitCar();
+
+        }
     }
+
+    public void EnterCar(GameObject _driver)
+    {
+        if (HasDriver)
+            ExitCar();
+
+        this.driver = _driver;
+        _driver.SetActive(false);
+    }
+
     public void ExitCar()
     {
+   
+        driver.transform.position = exitPoint.transform.position;
         driver.SetActive(true);
-
-        GetComponent<BetterCarMovement>().enabled = false;
-
-        Vector3 ofSetPos = new Vector3(gameObject.transform.localPosition.x - 1, gameObject.transform.localPosition.y, 0);
-        driver.transform.position = ofSetPos;
         driver = null;
     }
 
-    /*
-    void ToggleCamera()
-    {
-        CameraFollow cameraFollow = Camera.main.GetComponent<CameraFollow>();
-        cameraFollow.onPlayer = true;
-    }    */
-
+    
 }

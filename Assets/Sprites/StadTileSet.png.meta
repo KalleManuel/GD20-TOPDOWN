@@ -1,0 +1,1200 @@
+fileFormatVersion: 2
+guid: 8d05439e64ddece4699175d9d0ef2b81
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2951781293763471054
+    second: StadTileSet_0
+  - first:
+      213: -236493488355027771
+    second: StadTileSet_1
+  - first:
+      213: -5854864378554526821
+    second: StadTileSet_2
+  - first:
+      213: 1057424378577962246
+    second: StadTileSet_3
+  - first:
+      213: -2136347425076831813
+    second: StadTileSet_4
+  - first:
+      213: 3135558247942792026
+    second: StadTileSet_5
+  - first:
+      213: 293850480532792997
+    second: StadTileSet_6
+  - first:
+      213: 8382376041993680767
+    second: StadTileSet_7
+  - first:
+      213: 2039192180483476969
+    second: StadTileSet_8
+  - first:
+      213: -5771949580635301735
+    second: StadTileSet_9
+  - first:
+      213: 4071006118571537490
+    second: StadTileSet_10
+  - first:
+      213: 3052807949312276172
+    second: StadTileSet_11
+  - first:
+      213: -313590506486617975
+    second: StadTileSet_12
+  - first:
+      213: -5940492594727715969
+    second: StadTileSet_13
+  - first:
+      213: -1293192033905745172
+    second: StadTileSet_14
+  - first:
+      213: 926822619693709951
+    second: StadTileSet_15
+  - first:
+      213: 533383492213512920
+    second: StadTileSet_16
+  - first:
+      213: 7638086947231929256
+    second: StadTileSet_17
+  - first:
+      213: -2190723803222480043
+    second: StadTileSet_18
+  - first:
+      213: 3750332877118483065
+    second: StadTileSet_19
+  - first:
+      213: 7326217030637500311
+    second: StadTileSet_20
+  - first:
+      213: 2829770861000252255
+    second: StadTileSet_21
+  - first:
+      213: 8252153465449837170
+    second: StadTileSet_22
+  - first:
+      213: 2978790708185011496
+    second: StadTileSet_23
+  - first:
+      213: -7823789452884126169
+    second: StadTileSet_24
+  - first:
+      213: 6276554508870063726
+    second: StadTileSet_25
+  - first:
+      213: -6340028782424007145
+    second: StadTileSet_26
+  - first:
+      213: 9118112603263469831
+    second: StadTileSet_27
+  - first:
+      213: 1669746171744738854
+    second: StadTileSet_28
+  - first:
+      213: -7233301429673344981
+    second: StadTileSet_29
+  - first:
+      213: 6572764778309397217
+    second: StadTileSet_30
+  - first:
+      213: -4671430257587365860
+    second: StadTileSet_31
+  - first:
+      213: 1252184594274523602
+    second: StadTileSet_32
+  - first:
+      213: -7851962878044477024
+    second: StadTileSet_33
+  - first:
+      213: 390265384930661402
+    second: StadTileSet_34
+  - first:
+      213: -1395212135197892045
+    second: StadTileSet_35
+  - first:
+      213: 5807029846417985987
+    second: StadTileSet_36
+  - first:
+      213: 6477621651653662457
+    second: StadTileSet_37
+  - first:
+      213: 8830001817415259561
+    second: StadTileSet_38
+  - first:
+      213: 3702403958633868435
+    second: StadTileSet_39
+  - first:
+      213: -6189499231888790096
+    second: StadTileSet_40
+  - first:
+      213: -4755696732471156179
+    second: StadTileSet_41
+  - first:
+      213: -7322139255609790783
+    second: StadTileSet_42
+  - first:
+      213: -4341643075781055136
+    second: StadTileSet_43
+  - first:
+      213: -5140812284677962203
+    second: StadTileSet_44
+  - first:
+      213: -2904105915442108074
+    second: StadTileSet_45
+  - first:
+      213: 7241477042532747600
+    second: StadTileSet_46
+  - first:
+      213: -7955210551074577230
+    second: StadTileSet_47
+  - first:
+      213: 7086601060084796899
+    second: StadTileSet_48
+  - first:
+      213: 2561183033554666651
+    second: StadTileSet_49
+  - first:
+      213: -3682618928682859486
+    second: StadTileSet_50
+  - first:
+      213: -4109861521508762633
+    second: StadTileSet_51
+  - first:
+      213: 3005739060880176480
+    second: StadTileSet_52
+  - first:
+      213: -7291067559536913377
+    second: StadTileSet_53
+  - first:
+      213: 2671462639049707733
+    second: StadTileSet_54
+  - first:
+      213: -286076045544939267
+    second: StadTileSet_55
+  - first:
+      213: -1004362389103329690
+    second: StadTileSet_56
+  - first:
+      213: -6302433043629692819
+    second: StadTileSet_57
+  - first:
+      213: 7017915116242512947
+    second: StadTileSet_58
+  - first:
+      213: 7261184756886186265
+    second: StadTileSet_59
+  - first:
+      213: 5099939436076149075
+    second: StadTileSet_60
+  - first:
+      213: -2216081791545188862
+    second: StadTileSet_61
+  - first:
+      213: 7363256784378647033
+    second: StadTileSet_62
+  - first:
+      213: -2289653562966724499
+    second: StadTileSet_63
+  - first:
+      213: -6450726731212253446
+    second: StadTileSet_64
+  - first:
+      213: 6852784802525248241
+    second: StadTileSet_65
+  - first:
+      213: -7487191777251131927
+    second: StadTileSet_66
+  - first:
+      213: 7775765504234350386
+    second: StadTileSet_67
+  - first:
+      213: -6862629146980946026
+    second: StadTileSet_68
+  - first:
+      213: -187804756887224906
+    second: StadTileSet_69
+  - first:
+      213: -4298288989763798824
+    second: StadTileSet_70
+  - first:
+      213: 1839890078167668091
+    second: StadTileSet_71
+  - first:
+      213: -2937980075675589347
+    second: StadTileSet_72
+  - first:
+      213: 5956017257097806979
+    second: StadTileSet_73
+  - first:
+      213: -1891175527572524788
+    second: StadTileSet_74
+  - first:
+      213: 5110540620375923140
+    second: StadTileSet_75
+  - first:
+      213: -3116996685557396068
+    second: StadTileSet_76
+  - first:
+      213: -6429767002019968092
+    second: StadTileSet_77
+  - first:
+      213: -1575977490096400983
+    second: StadTileSet_78
+  - first:
+      213: -2230289622354654779
+    second: StadTileSet_79
+  - first:
+      213: -5502562045258591296
+    second: StadTileSet_80
+  - first:
+      213: -7633939611924341168
+    second: StadTileSet_81
+  - first:
+      213: -8317081663054486876
+    second: StadTileSet_82
+  - first:
+      213: 1943552757757218777
+    second: StadTileSet_83
+  - first:
+      213: 6359377074171755766
+    second: StadTileSet_84
+  - first:
+      213: -8264564677922457154
+    second: StadTileSet_85
+  - first:
+      213: -4330365555564664405
+    second: StadTileSet_86
+  - first:
+      213: -4212614134626123506
+    second: StadTileSet_87
+  - first:
+      213: -5047677078188955803
+    second: StadTileSet_88
+  - first:
+      213: -1146849074122216025
+    second: StadTileSet_89
+  - first:
+      213: -1381089818778968896
+    second: StadTileSet_90
+  - first:
+      213: -5021418398304388666
+    second: StadTileSet_91
+  - first:
+      213: 6031411905189266799
+    second: StadTileSet_92
+  - first:
+      213: 3741063037942251278
+    second: StadTileSet_93
+  - first:
+      213: -778112592240217926
+    second: StadTileSet_94
+  - first:
+      213: 8163944023682102621
+    second: StadTileSet_95
+  - first:
+      213: -2256338852510532141
+    second: StadTileSet_96
+  - first:
+      213: 3951555351097007381
+    second: StadTileSet_97
+  - first:
+      213: 8234306949686559537
+    second: StadTileSet_98
+  - first:
+      213: -919804752641431799
+    second: StadTileSet_99
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StadTileSet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec62a6d8275d6f820800000000000000
+      internalID: 2951781293763471054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_1
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4d7e2ec6ec7bcf0800000000000000
+      internalID: -236493488355027771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_2
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b935b2c3ed75fbea0800000000000000
+      internalID: -5854864378554526821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_3
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6054afdaed9bcae00800000000000000
+      internalID: 1057424378577962246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_4
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 288
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb99973f55b2a52e0800000000000000
+      internalID: -2136347425076831813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a532d251d9db38b20800000000000000
+      internalID: 3135558247942792026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a62c358477f31400800000000000000
+      internalID: 293850480532792997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_7
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7737c4399e245470800000000000000
+      internalID: 8382376041993680767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edc87aeb7aac4c10800000000000000
+      internalID: 2039192180483476969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_9
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99894c0007ae5efa0800000000000000
+      internalID: -5771949580635301735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254f5e7ee7e1f7830800000000000000
+      internalID: 4071006118571537490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_11
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc63f3ac7a0cd5a20800000000000000
+      internalID: 3052807949312276172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_12
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9882ee78817e5abf0800000000000000
+      internalID: -313590506486617975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_13
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7b7a6c85712f8da0800000000000000
+      internalID: -5940492594727715969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_14
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2eea062b8ad0ee0800000000000000
+      internalID: -1293192033905745172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_15
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7af3a8134cbcdc00800000000000000
+      internalID: 926822619693709951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8da917ec575f66700800000000000000
+      internalID: 533383492213512920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_17
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a39e453c9feff960800000000000000
+      internalID: 7638086947231929256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_18
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55b6ee3de4cf891e0800000000000000
+      internalID: -2190723803222480043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_19
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97aad12b1ebdb0430800000000000000
+      internalID: 3750332877118483065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 797b09ac293fba560800000000000000
+      internalID: 7326217030637500311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_21
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bdba5fa9d554720800000000000000
+      internalID: 2829770861000252255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_22
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2727524ead9858270800000000000000
+      internalID: 8252153465449837170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8251a95ed5ac65920800000000000000
+      internalID: 2978790708185011496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_24
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 726d46fd1f05c6390800000000000000
+      internalID: -7823789452884126169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_25
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66939a321dca1750800000000000000
+      internalID: 6276554508870063726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_26
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e5dddc961b308a0800000000000000
+      internalID: -6340028782424007145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_27
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70908835a1b0a8e70800000000000000
+      internalID: 9118112603263469831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_28
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62ed9e7eb412c2710800000000000000
+      internalID: 1669746171744738854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_29
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b20cef26ca62e9b90800000000000000
+      internalID: -7233301429673344981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eaa45bedb6273b50800000000000000
+      internalID: 6572764778309397217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_31
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c185e775eeebb2fb0800000000000000
+      internalID: -4671430257587365860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_32
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d913fe0147a06110800000000000000
+      internalID: 1252184594274523602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9ea982d59380390800000000000000
+      internalID: -7851962878044477024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_34
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a145ce4cc408a6500800000000000000
+      internalID: 390265384930661402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StadTileSet_35
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 1
+      pivot: {x: 0, y: 1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332273784f533ace0800000000000000
+      internalID: -1395212135197892045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

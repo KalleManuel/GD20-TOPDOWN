@@ -14,8 +14,6 @@ public class HumanMovement : MonoBehaviour
 
     public PlayerInput playerInput;
 
-    public BetterCarMovement closestCar;
-
     private void Start()
     {
       
@@ -29,12 +27,6 @@ public class HumanMovement : MonoBehaviour
         bool rightRotate = Input.GetKey(playerInput.turnRightKey);
         bool LeftRotate = Input.GetKey(playerInput.turnLeftKey);
         bool enterCar = Input.GetKeyDown(playerInput.enterCars);
-
-        closestCar = Resources.FindObjectsOfTypeAll<BetterCarMovement>()
-             .OrderBy((a) => Vector3.Distance(this.transform.position, a.transform.position))
-             .First();
-
-
 
         if (rightRotate)
         {
@@ -58,39 +50,23 @@ public class HumanMovement : MonoBehaviour
 
         if (enterCar)
         {
-         
+
+            BetterCarMovement closestCar = GetClosestCar();
             float distance = Vector3.Distance(closestCar.transform.position, this.transform.position);
 
-            if(distance < 2f && closestCar.driver == null)
+           if (distance < 2f)
             {
-               EnterCar();
-              
- 
-            }
-            else if (distance < 2f && closestCar.driver != null)
-            {
-                closestCar.ExitCar();
-                EnterCar();
+                closestCar.EnterCar(gameObject);
             }
         }
-
     }
 
-    public void EnterCar()
+    BetterCarMovement GetClosestCar()
     {
-       
-        closestCar.enabled = true;
-        closestCar.driver = this.gameObject;
-        gameObject.SetActive(false);
-        //ToggleCamera();
+        return Resources.FindObjectsOfTypeAll<BetterCarMovement>()
+             .OrderBy((a) => Vector3.Distance(this.transform.position, a.transform.position))
+             .First();
     }
-
-
-   /* public void ToggleCamera()
-    {
-        CameraFollow cameraFollow = Camera.main.GetComponent<CameraFollow>();
-        cameraFollow.onPlayer = false;
-    }                   */
-
 
 }
+
